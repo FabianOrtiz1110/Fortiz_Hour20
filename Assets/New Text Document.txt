@@ -1,0 +1,12 @@
+1. Hard, because the balls have a small hitbox
+Hard, because the game doesn't have an end goal.
+Easy, because of how slow everything is.
+
+2. I would 1) increase speed to make it harder, 2) increase powerup size to make it easier to grab, and finally make the space mechanic be able to
+grab powerups.
+
+3. A finish line, a veriety of textures  and levels, and an increase of powerups and abilities
+
+4. the fact the game is simplistic, that it can go on forever allowing you to achieve higher scores, and collecting powerups and dodging obstacles.
+
+5.the powerups can phase a bit when picking up, the game has no finish line, and the player speed is a bit slow.
